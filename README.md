@@ -6,7 +6,7 @@
 
 Current LanguageTool version: **6.2**
 
-This is a Python wrapper for [LanguageTool](https://languagetool.org) cloned from https://github.com/jxmorris12/language_tool_python.git . LanguageTool is open-source grammar tool, also known as the spellchecker for OpenOffice. This library allows you to make to detect grammar errors and spelling mistakes through a Python script or through a command-line interface. This repo has the updated library for the latest language-tool version 6.2 .
+This is a Python wrapper for [LanguageTool](https://languagetool.org) cloned from `https://github.com/jxmorris12/language_tool_python.git` . LanguageTool is open-source grammar tool, also known as the spellchecker for OpenOffice. This library allows you to make to detect grammar errors and spelling mistakes through a Python script or through a command-line interface. This repo has the updated library for the latest language-tool version `6.2` .
 
 ## Local and Remote Servers
 
